@@ -1,0 +1,19 @@
+Privacy Policy
+
+1. Data Collection
+We do not collect personally identifiable information. The app may use third‑party services (such as Google AdMob) which can collect anonymous usage data.
+
+2. Data Usage
+Collected data is only used to improve user experience and provide relevant ads. We never sell or share your personal information.
+
+3. Permissions
+The app may request permissions (such as internet access or phone state) only to provide its core functionality. No personal data is stored or transmitted.
+
+4. Security
+We take reasonable measures to protect your information against unauthorized access.
+
+5. Changes
+This policy may be updated from time to time. Updates will be reflected in this file.
+
+Contact
+If you have any questions, please contact us at: [your email here]
